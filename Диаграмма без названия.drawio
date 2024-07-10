@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T08:38:01.793Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="q_2Y_wtTOGE7boPgvgmn" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T08:38:38.995Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="uoo5hJ0EUo-rA0mQyTDx" version="24.6.4" type="github">
   <diagram name="Страница — 1" id="IuWRoEyBlXj8WQk81Yn1">
     <mxGraphModel dx="1386" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WfBBGBUwr4_pyX-GsKSz-1" value="&lt;b&gt;mini app&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="205" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WfBBGBUwr4_pyX-GsKSz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.008;exitY=0.881;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="WfBBGBUwr4_pyX-GsKSz-5" target="WfBBGBUwr4_pyX-GsKSz-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -26,62 +26,62 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WfBBGBUwr4_pyX-GsKSz-5" value="&lt;b&gt;API server&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;(&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;The API Server orchestrates data flow by interacting with various backend components.&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="210" width="120" height="160" as="geometry" />
+          <mxGeometry x="555" y="240" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="WfBBGBUwr4_pyX-GsKSz-6" value="&lt;b&gt;user&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="45" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WfBBGBUwr4_pyX-GsKSz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="WfBBGBUwr4_pyX-GsKSz-7" target="WfBBGBUwr4_pyX-GsKSz-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="870" y="125" />
-              <mxPoint x="870" y="250" />
+              <mxPoint x="875" y="155" />
+              <mxPoint x="875" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WfBBGBUwr4_pyX-GsKSz-7" value="&lt;b&gt;database&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1005" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WfBBGBUwr4_pyX-GsKSz-8" value="&lt;b&gt;smart contracts&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1005" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J3c_Z2n6tk0QKxVToxKa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="WfBBGBUwr4_pyX-GsKSz-9" target="WfBBGBUwr4_pyX-GsKSz-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="870" y="645" />
-              <mxPoint x="870" y="330" />
+              <mxPoint x="875" y="675" />
+              <mxPoint x="875" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WfBBGBUwr4_pyX-GsKSz-9" value="&lt;b&gt;CMS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1005" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WfBBGBUwr4_pyX-GsKSz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WfBBGBUwr4_pyX-GsKSz-8" target="WfBBGBUwr4_pyX-GsKSz-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J3c_Z2n6tk0QKxVToxKa-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WfBBGBUwr4_pyX-GsKSz-6" target="WfBBGBUwr4_pyX-GsKSz-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="342" as="sourcePoint" />
-            <mxPoint x="230" y="292" as="targetPoint" />
+            <mxPoint x="185" y="372" as="sourcePoint" />
+            <mxPoint x="235" y="322" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J3c_Z2n6tk0QKxVToxKa-33" value="&lt;p style=&quot;line-height: 1px; text-align: left; margin-bottom: 0cm; direction: ltr; background: transparent; margin-top: 0.49cm;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Users engage with the Mini-App&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1px; text-align: left; margin-bottom: 0cm; direction: ltr; background: transparent; margin-top: 0.49cm;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;through the Telegram frontend&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="190" width="180" height="50" as="geometry" />
+          <mxGeometry x="95" y="220" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="J3c_Z2n6tk0QKxVToxKa-36" value="&lt;p style=&quot;line-height: 1px; text-align: left; margin-bottom: 0cm; direction: ltr; background: transparent;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;&quot;&gt;User actions are transmitted via t&lt;/font&gt;&lt;font style=&quot;&quot;&gt;he&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1px; text-align: left; margin-bottom: 0cm; direction: ltr; background: transparent;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Telegram Bot API to the API Server.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="335" y="230" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J3c_Z2n6tk0QKxVToxKa-37" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p style=&quot;line-height: 1px; margin-bottom: 0cm; direction: ltr; background: transparent;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Retrieves and updates user-specific data&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1px; margin-bottom: 0cm; direction: ltr; background: transparent;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;to personalize interactions and track progress.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="40" width="280" height="40" as="geometry" />
+          <mxGeometry x="705" y="70" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J3c_Z2n6tk0QKxVToxKa-38" value="&lt;p style=&quot;line-height: 1px; text-align: left; margin-bottom: 0cm; direction: ltr; background: transparent;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Executes blockchain transactions such as&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1px; text-align: left; margin-bottom: 0cm; direction: ltr; background: transparent;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;LC distribution, burning, and upgrades&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1px; text-align: left; margin-bottom: 0cm; direction: ltr; background: transparent;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;based on user actions.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="230" width="220" height="50" as="geometry" />
+          <mxGeometry x="875" y="260" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="J3c_Z2n6tk0QKxVToxKa-39" value="&lt;p style=&quot;line-height: 1px; text-align: left; margin-bottom: 0cm; direction: ltr; background: transparent; font-size: medium;&quot; align=&quot;justify&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Fetches relevant content updates and game&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1px; text-align: left; margin-bottom: 0cm; direction: ltr; background: transparent; font-size: medium;&quot; align=&quot;justify&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;state information to enrich user experience.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="570" width="230" height="50" as="geometry" />
+          <mxGeometry x="885" y="600" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="J3c_Z2n6tk0QKxVToxKa-40" value="&lt;p style=&quot;line-height: 1px; text-align: left; margin-bottom: 0.49cm; direction: ltr; background: transparent; margin-top: 0.49cm;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Upon processing, the API Server sends&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1px; text-align: left; margin-bottom: 0.49cm; direction: ltr; background: transparent; margin-top: 0.49cm;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;updated game states, content, and LC balances&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1px; text-align: left; margin-bottom: 0.49cm; direction: ltr; background: transparent; margin-top: 0.49cm;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;back to the frontend for immediate display and user interaction.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="340" width="330" height="90" as="geometry" />
+          <mxGeometry x="325" y="370" width="330" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
